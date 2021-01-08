@@ -9,9 +9,9 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beaner1337&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x0db&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beaner1337&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0db&theme=dark&layout=compact)
 
 ![ezgif-3-9f3c9ac65d92](https://user-images.githubusercontent.com/76678745/103252595-82c11980-494b-11eb-9fe9-10707ed2525b.gif)
 
